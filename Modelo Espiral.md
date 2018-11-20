@@ -19,7 +19,7 @@ sobre as funcionalidades oferecidas e o modelo de implantação,
 oportunizando uma realimentação advinda do cliente e a liberação para o
 próximo incremento.
 
-A espiral possui em cada etapa um conjunto de tarefas a serem cumpridas, que varia de acordo com o tamanho do projeto. Este modelo pode ser usado durante todo o período de desenvolvimento de software, ao contrário de outros modelos, pois após a opinião do cliente sobre o que foi e deverá ser feito, um novo planejamento se iniciará.: É fundamental estudar todos os riscos para criar um modelo sustentável. 
+A espiral possui em cada etapa um conjunto de tarefas a serem cumpridas, que varia de acordo com o tamanho do projeto. Este modelo pode ser usado durante todo o período de desenvolvimento de software, ao contrário de outros modelos, pois após a opinião do cliente sobre o que foi e deverá ser feito, um novo planejamento se iniciará. É fundamental estudar todos os riscos para criar um modelo sustentável. 
 
 **Referências:**
 
